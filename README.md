@@ -1,4 +1,5 @@
-# 🗽PHP BLOG🗽
+# 🗽DEBLOATED BLOG🗽
+see my how I implemented it here: https://lilkrucivert.com/blog
 ## 🈚100% OPEN-SOURCE
 ## 🤑100% FREE TO USE
 ## 🕵️100% SPYWARE FREE
